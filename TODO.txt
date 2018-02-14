@@ -1,0 +1,4 @@
+Don't have two files.
+More customization on graph (like title)
+More obvious usage
+Move on from just ability rolls
